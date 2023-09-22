@@ -1,0 +1,16 @@
+body {
+  
+  background-color: brown;
+  font-size: 20px;
+  font-family: 'PT SERIF', cursive;
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto; 
+
+   
+}
+
+h1{ 
+    font-size: 30px;
+    font-weight: lighter;
+}
